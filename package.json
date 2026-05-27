@@ -1,0 +1,23 @@
+{
+  "name": "nuxt-446-echarts-island-hash-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "echarts": "^6.0.0",
+    "nuxt": "4.4.6",
+    "nuxt-echarts": "^1.0.1",
+    "vue": "^3.5.0",
+    "vue-echarts": "^8.0.1",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "ohash": "^2.0.0"
+  }
+}
